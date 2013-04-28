@@ -1,0 +1,7 @@
+*.aux
+*.pdf
+*.gz
+*.tex
+*.log
+*.pyc
+my_trello_info.py
