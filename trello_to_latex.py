@@ -42,3 +42,5 @@ def main():
 		createLatexDocument(client,outfile)
 	else:
 		print("No api key or trello token set")
+		
+main()
